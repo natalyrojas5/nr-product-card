@@ -1,4 +1,4 @@
-## NT-Product-Card
+## NBRM-Product-Card
 
 - Este es un paquete de despliegues en NPM
 
@@ -7,7 +7,7 @@
 ### Ejemplo
 
 ```
-import { ProductTitle, ProductImg, ProductBtns } from 'nr-product-card';
+import { ProductTitle, ProductImg, ProductBtns } from 'nbrm-product-card';
 ```
 
 ```

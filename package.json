@@ -38,7 +38,7 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "nr-product-card",
+  "name": "nbrm-product-card",
   "author": "Nataly",
   "module": "dist/nr-product-card.esm.js",
   "size-limit": [
